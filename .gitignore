@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Cache Scrapy Shell
+WebCrawler/WebCrawler/__pycache__/
+WebCrawler/WebCrawler/spiders/__pycache__/
+*.pyc
+*.cpython-39.pyc
